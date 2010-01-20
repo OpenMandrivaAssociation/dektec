@@ -1,6 +1,6 @@
 %define name dektec
 %define version 0
-%define release %mkrel 0.20091104.1
+%define release %mkrel 0.20091104.2
 
 Name:      %name
 Version:   %version
@@ -11,7 +11,7 @@ Group:     Development/Kernel
 Buildroot: %{_tmppath}/%{realname}-%{realversion}-%{realrelease}-buildroot
 Summary:   Libraries and utilities for using Dektec cards
 Url:       http://www.dektec.com/downloads/Drivers.asp
-ExclusiveArch: %ix86
+ExclusiveArch: %ix86 x86_64
 
 %description
 This package contains libraries and utilities for using Dektec cards.
