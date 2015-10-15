@@ -1,6 +1,6 @@
 %define name dektec
 %define version 0
-%define release 0.20091104.4
+%define release 0.20091104.6
 
 Name:      %name
 Version:   %version
