@@ -10,7 +10,7 @@ Source0:   LinuxSDK.zip
 Group:     Development/Kernel
 Buildroot: %{_tmppath}/%{realname}-%{realversion}-%{realrelease}-buildroot
 Summary:   Libraries and utilities for using Dektec cards
-Url:       http://www.dektec.com/downloads/Drivers.asp
+Url:       https://www.dektec.com/downloads/Drivers.asp
 ExclusiveArch: %ix86 x86_64
 
 %description
